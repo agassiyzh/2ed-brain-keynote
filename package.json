@@ -4,13 +4,20 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
+    "build:cf": "slidev build && rm -f dist/_redirects",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "pnpm run build:cf && wrangler deploy",
+    "deploy:dry-run": "pnpm run build:cf && wrangler deploy --dry-run",
+    "cf:whoami": "wrangler whoami"
   },
   "dependencies": {
     "@slidev/cli": "^52.15.2",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.5.33"
+  },
+  "devDependencies": {
+    "wrangler": "^4.90.1"
   }
 }
