@@ -538,6 +538,80 @@ duration: 60min
 
 ---
 
+# 从"知识"到"团队智慧"：复利的关键
+
+<div class="tech-kicker">Compounding Starts With Reuse</div>
+
+<div grid="~ cols-2 gap-6" class="mt-10">
+
+<div class="danger-card">
+
+### ❌ 没有 Wiki 的工作流
+
+<div class="mt-5 text-sm leading-8">
+  <p>Q:「之前怎样解决这个问题？」</p>
+  <p>→ Slack 搜索（乱）</p>
+  <p>→ 找不到</p>
+  <p>→ 再问人</p>
+  <p>→ 每次都重复</p>
+</div>
+
+</div>
+
+<div class="success-card">
+
+### ✅ 有 Wiki 的工作流
+
+<div class="mt-5 text-sm leading-8">
+  <p>Q:「之前怎样解决这个问题？」</p>
+  <p>→ Wiki 查询（有结构）</p>
+  <p>→ 找到历史决策 + 权衡</p>
+  <p>→ 看到 5 个类似案例</p>
+  <p>→ 复用知识，节省时间</p>
+</div>
+
+</div>
+
+</div>
+
+<p class="mt-8 text-lg">
+<strong>复利的秘密</strong>：每一次知识的查询和验证，都会强化这个知识在 Wiki 中的地位。
+</p>
+
+---
+
+# 信心评分的力量
+
+<div class="tech-kicker">Confidence Is Evidence, Not Decoration</div>
+
+<div grid="~ cols-2 gap-6" class="mt-10">
+  <div class="danger-card">
+    <h3>没有评分时</h3>
+    <div class="mt-5 text-sm leading-8">
+      <p>查 Wiki →「推荐 A」</p>
+      <p>不知道多可靠</p>
+      <p>可能是一年前的决策，已经过时</p>
+    </div>
+  </div>
+  <div class="success-card">
+    <h3>有评分时</h3>
+    <div class="mt-5 text-sm leading-8">
+      <p>推荐 A（99% 确定）</p>
+      <p>最近检查：2 周前</p>
+      <p>5 个项目都在用</p>
+      <p>反面意见：B 也有好处（60% 确定）</p>
+    </div>
+  </div>
+</div>
+
+<div grid="~ cols-3 gap-4" class="mt-10">
+  <div class="metric"><div class="value">5x</div><p class="muted mt-2">项目验证</p></div>
+  <div class="metric"><div class="value">2w</div><p class="muted mt-2">最近检查</p></div>
+  <div class="metric"><div class="value">99%</div><p class="muted mt-2">决策稳定性</p></div>
+</div>
+
+---
+
 # 实际案例：从零到"团队知识库"
 
 <div class="tech-kicker">Scenario 1: New Hire Ramp-up</div>
@@ -599,6 +673,98 @@ duration: 60min
 </div>
 
 </div>
+
+---
+
+# 反向思考：这套系统不是"完美的"
+
+<div class="tech-kicker">Reality Check</div>
+
+<div grid="~ cols-2 gap-5" class="mt-10 text-sm">
+<v-clicks>
+
+<div class="glass-card"><strong>LLM 不完美</strong><p class="muted mt-2">需要 Human-in-the-loop 审查、定期 lint。</p></div>
+<div class="glass-card"><strong>信心评分很难</strong><p class="muted mt-2">用证据链，而不是只看数字。</p></div>
+<div class="glass-card"><strong>需要纪律</strong><p class="muted mt-2">前期投入时间磨 Schema。</p></div>
+<div class="glass-card"><strong>不是即插即用</strong><p class="muted mt-2">从小规模开始，逐步演进。</p></div>
+
+</v-clicks>
+</div>
+
+---
+
+# 如何扩展：从小团队到整个组织
+
+<div class="tech-kicker">Scaling Path</div>
+
+<div grid="~ cols-3 gap-5" class="mt-12 text-sm">
+  <div class="flow-step">
+    <div class="tech-kicker">Phase 1</div>
+    <h3>刚开始</h3>
+    <p class="muted mt-3">建立 Wiki、记录决策、手工整理。</p>
+    <p class="mt-4 text-slate-300">2-4 周</p>
+  </div>
+  <div class="flow-step">
+    <div class="tech-kicker">Phase 2</div>
+    <h3>Wiki 成熟</h3>
+    <p class="muted mt-3">用信心评分、自动连接、AI 维护。</p>
+    <p class="mt-4 text-slate-300">1-2 个月</p>
+  </div>
+  <div class="success-card">
+    <div class="tech-kicker">Phase 3</div>
+    <h3>复利阶段</h3>
+    <p class="muted mt-3">多个团队同步、自动更新、自我完善。</p>
+    <p class="mt-4 text-slate-300">持续进行</p>
+  </div>
+</div>
+
+<p class="mt-8 text-center text-xl">
+从「我有个 Wiki」→「Wiki 在进化」→「Wiki 在增强团队」
+</p>
+
+---
+
+# 从个人演进到组织能力
+
+<div class="tech-kicker">Culture Shift</div>
+
+<div grid="~ cols-2 gap-6" class="mt-10 text-sm">
+  <div class="accent-card">
+    <h3>关键转变</h3>
+    <div class="mt-5 leading-8">
+      <p>「我知道」→「我们知道」</p>
+      <p>「搜索过去」→「学习未来」</p>
+      <p>「个人笔记」→「团队资产」</p>
+      <p>「遗忘曲线」→「复利曲线」</p>
+    </div>
+  </div>
+  <div grid="~ cols-2 gap-4">
+    <div class="metric"><div class="value">50%</div><p class="muted mt-2">新人上手更快</p></div>
+    <div class="metric"><div class="value">60%</div><p class="muted mt-2">重复工作减少</p></div>
+    <div class="metric"><div class="value">↑</div><p class="muted mt-2">决策质量更高</p></div>
+    <div class="metric"><div class="value">↔</div><p class="muted mt-2">团队流动性提升</p></div>
+  </div>
+</div>
+
+---
+
+# 总结：如何进化
+
+<div class="tech-kicker">Evolution Path</div>
+
+<div class="mt-12 grid grid-cols-[1fr_auto_1fr_auto_1fr_auto_1fr] gap-3 items-center text-sm">
+  <div class="flow-step"><div class="tech-kicker">01</div><h3>有 Wiki</h3><p class="muted">邮件、Slack 讨论能被找到。</p></div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step"><div class="tech-kicker">02</div><h3>AI 维护</h3><p class="muted">AI 读新文档，自动整理。</p></div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step"><div class="tech-kicker">03</div><h3>建立联系</h3><p class="muted">知识之间互相连接。</p></div>
+  <div class="flow-arrow">→</div>
+  <div class="success-card"><div class="tech-kicker">04</div><h3>团队共赢</h3><p class="muted">知识流动和增长。</p></div>
+</div>
+
+<p class="mt-10 text-center text-2xl font-bold">
+赋能个体，沉淀集体，构建团队的"复利型"记忆
+</p>
 
 ---
 
@@ -681,128 +847,6 @@ duration: 60min
 
 ---
 
-# 从"知识"到"团队智慧"：复利的关键
-
-<div class="tech-kicker">Compounding Starts With Reuse</div>
-
-<div grid="~ cols-2 gap-6" class="mt-10">
-
-<div class="danger-card">
-
-### ❌ 没有 Wiki 的工作流
-
-<div class="mt-5 text-sm leading-8">
-  <p>Q:「之前怎样解决这个问题？」</p>
-  <p>→ Slack 搜索（乱）</p>
-  <p>→ 找不到</p>
-  <p>→ 再问人</p>
-  <p>→ 每次都重复</p>
-</div>
-
-</div>
-
-<div class="success-card">
-
-### ✅ 有 Wiki 的工作流
-
-<div class="mt-5 text-sm leading-8">
-  <p>Q:「之前怎样解决这个问题？」</p>
-  <p>→ Wiki 查询（有结构）</p>
-  <p>→ 找到历史决策 + 权衡</p>
-  <p>→ 看到 5 个类似案例</p>
-  <p>→ 复用知识，节省时间</p>
-</div>
-
-</div>
-
-</div>
-
-<p class="mt-8 text-lg">
-<strong>复利的秘密</strong>：每一次知识的查询和验证，都会强化这个知识在 Wiki 中的地位。
-</p>
-
----
-
-# 信心评分的力量
-
-<div class="tech-kicker">Confidence Is Evidence, Not Decoration</div>
-
-<div grid="~ cols-2 gap-6" class="mt-10">
-  <div class="danger-card">
-    <h3>没有评分时</h3>
-    <div class="mt-5 text-sm leading-8">
-      <p>查 Wiki →「推荐 A」</p>
-      <p>不知道多可靠</p>
-      <p>可能是一年前的决策，已经过时</p>
-    </div>
-  </div>
-  <div class="success-card">
-    <h3>有评分时</h3>
-    <div class="mt-5 text-sm leading-8">
-      <p>推荐 A（99% 确定）</p>
-      <p>最近检查：2 周前</p>
-      <p>5 个项目都在用</p>
-      <p>反面意见：B 也有好处（60% 确定）</p>
-    </div>
-  </div>
-</div>
-
-<div grid="~ cols-3 gap-4" class="mt-10">
-  <div class="metric"><div class="value">5x</div><p class="muted mt-2">项目验证</p></div>
-  <div class="metric"><div class="value">2w</div><p class="muted mt-2">最近检查</p></div>
-  <div class="metric"><div class="value">99%</div><p class="muted mt-2">决策稳定性</p></div>
-</div>
-
----
-
-# 反向思考：这套系统不是"完美的"
-
-<div class="tech-kicker">Reality Check</div>
-
-<div grid="~ cols-2 gap-5" class="mt-10 text-sm">
-<v-clicks>
-
-<div class="glass-card"><strong>LLM 不完美</strong><p class="muted mt-2">需要 Human-in-the-loop 审查、定期 lint。</p></div>
-<div class="glass-card"><strong>信心评分很难</strong><p class="muted mt-2">用证据链，而不是只看数字。</p></div>
-<div class="glass-card"><strong>需要纪律</strong><p class="muted mt-2">前期投入时间磨 Schema。</p></div>
-<div class="glass-card"><strong>不是即插即用</strong><p class="muted mt-2">从小规模开始，逐步演进。</p></div>
-
-</v-clicks>
-</div>
-
----
-
-# 如何扩展：从小团队到整个组织
-
-<div class="tech-kicker">Scaling Path</div>
-
-<div grid="~ cols-3 gap-5" class="mt-12 text-sm">
-  <div class="flow-step">
-    <div class="tech-kicker">Phase 1</div>
-    <h3>刚开始</h3>
-    <p class="muted mt-3">建立 Wiki、记录决策、手工整理。</p>
-    <p class="mt-4 text-slate-300">2-4 周</p>
-  </div>
-  <div class="flow-step">
-    <div class="tech-kicker">Phase 2</div>
-    <h3>Wiki 成熟</h3>
-    <p class="muted mt-3">用信心评分、自动连接、AI 维护。</p>
-    <p class="mt-4 text-slate-300">1-2 个月</p>
-  </div>
-  <div class="success-card">
-    <div class="tech-kicker">Phase 3</div>
-    <h3>复利阶段</h3>
-    <p class="muted mt-3">多个团队同步、自动更新、自我完善。</p>
-    <p class="mt-4 text-slate-300">持续进行</p>
-  </div>
-</div>
-
-<p class="mt-8 text-center text-xl">
-从「我有个 Wiki」→「Wiki 在进化」→「Wiki 在增强团队」
-</p>
-
----
-
 # 动手实验：30 分钟 Workshop
 
 <div class="tech-kicker">Build a Working Prototype</div>
@@ -828,50 +872,6 @@ duration: 60min
 <div class="glass-card mt-10 text-center text-xl">
   收获：一个可工作的、活的知识库原型。
 </div>
-
----
-
-# 从个人演进到组织能力
-
-<div class="tech-kicker">Culture Shift</div>
-
-<div grid="~ cols-2 gap-6" class="mt-10 text-sm">
-  <div class="accent-card">
-    <h3>关键转变</h3>
-    <div class="mt-5 leading-8">
-      <p>「我知道」→「我们知道」</p>
-      <p>「搜索过去」→「学习未来」</p>
-      <p>「个人笔记」→「团队资产」</p>
-      <p>「遗忘曲线」→「复利曲线」</p>
-    </div>
-  </div>
-  <div grid="~ cols-2 gap-4">
-    <div class="metric"><div class="value">50%</div><p class="muted mt-2">新人上手更快</p></div>
-    <div class="metric"><div class="value">60%</div><p class="muted mt-2">重复工作减少</p></div>
-    <div class="metric"><div class="value">↑</div><p class="muted mt-2">决策质量更高</p></div>
-    <div class="metric"><div class="value">↔</div><p class="muted mt-2">团队流动性提升</p></div>
-  </div>
-</div>
-
----
-
-# 总结：如何进化
-
-<div class="tech-kicker">Evolution Path</div>
-
-<div class="mt-12 grid grid-cols-[1fr_auto_1fr_auto_1fr_auto_1fr] gap-3 items-center text-sm">
-  <div class="flow-step"><div class="tech-kicker">01</div><h3>有 Wiki</h3><p class="muted">邮件、Slack 讨论能被找到。</p></div>
-  <div class="flow-arrow">→</div>
-  <div class="flow-step"><div class="tech-kicker">02</div><h3>AI 维护</h3><p class="muted">AI 读新文档，自动整理。</p></div>
-  <div class="flow-arrow">→</div>
-  <div class="flow-step"><div class="tech-kicker">03</div><h3>建立联系</h3><p class="muted">知识之间互相连接。</p></div>
-  <div class="flow-arrow">→</div>
-  <div class="success-card"><div class="tech-kicker">04</div><h3>团队共赢</h3><p class="muted">知识流动和增长。</p></div>
-</div>
-
-<p class="mt-10 text-center text-2xl font-bold">
-赋能个体，沉淀集体，构建团队的"复利型"记忆
-</p>
 
 ---
 
@@ -920,3 +920,4 @@ duration: 60min
   <p class="text-2xl font-bold mt-3">30 分钟后，你们就可以建立第一个 Wiki。</p>
   <p class="muted mt-3">Questions? Let's build your team's second brain.</p>
 </div>
+
