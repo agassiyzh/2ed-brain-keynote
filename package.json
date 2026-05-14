@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "build:cf": "slidev build && rm -f dist/_redirects",
+    "postbuild": "rm -f dist/_redirects",
+    "build:cf": "pnpm run build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "deploy": "pnpm run build:cf && wrangler deploy",
-    "deploy:dry-run": "pnpm run build:cf && wrangler deploy --dry-run",
+    "deploy": "pnpm run build && wrangler deploy",
+    "deploy:dry-run": "pnpm run build && wrangler deploy --dry-run",
     "cf:whoami": "wrangler whoami"
   },
   "dependencies": {

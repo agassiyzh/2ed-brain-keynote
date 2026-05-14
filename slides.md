@@ -921,3 +921,14 @@ duration: 60min
   <p class="muted mt-3">Questions? Let's build your team's second brain.</p>
 </div>
 
+
+
+layout: full
+---
+
+<div class="h-full box-border flex items-center justify-center px-8 py-[50px]">
+  <img
+    src="/反馈.jpeg"
+    class="max-h-full max-w-full h-auto w-auto rounded-2xl shadow-2xl object-contain"
+  />
+</div>
